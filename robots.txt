@@ -1,0 +1,4 @@
+# /robots.txt file for https://ornamentica.com/
+
+Sitemap: https://ornamentica.com/sitemap.xml
+User-agent: *
